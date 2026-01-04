@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="C:\Users\User\Downloads\Screenshot_1.png" alt="Capa do Projeto" width="100%">
+</p>
+
 # Controle_Financeiro
 Todos os dados dessa planilha são fictícios.
 
